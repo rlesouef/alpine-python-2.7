@@ -24,6 +24,7 @@ ENV PACKAGES="\
   python2 \
   python2-dev \
   py-setuptools \
+  py-pillow \
 "
 
 RUN echo \
